@@ -1,4 +1,4 @@
-Network Packet Sniffer
+Network Packet Sniffer:
 -This project is a simple network packet sniffer implemented in Python. It captures and parses various network protocols, including Ethernet, IPv4, ICMP, TCP, and UDP. This tool provides a detailed breakdown of packet contents, which can be useful for network analysis and debugging.
 
 Features
