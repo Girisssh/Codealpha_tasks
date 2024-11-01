@@ -6,8 +6,8 @@ Welcome to the repository for my CodeAlpha internship tasks! This project contai
 
 - [Overview](#overview)
 - [Tasks](#tasks)
-  - [CodeAlphaTask01](#codealpha_task01.py)
-  - [CodeAlphaTask02](#codealpha_task02.py)
+  - [CodeAlphaTask01](codealpha_task01.py)
+  - [CodeAlphaTask02](codealpha_task02.py)
   - [CodeAlphaTask03](#codealpha_task03)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
