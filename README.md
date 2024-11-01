@@ -7,8 +7,7 @@ Welcome to the repository for my CodeAlpha internship tasks! This project contai
 - [Overview](#overview)
 - [Tasks](#tasks)
   - [CodeAlphaTask01](Codealpha_task01.py)
-  - [CodeAlphaTask02](Codealpha_task02_REC.mp4
-)
+  - [CodeAlphaTask02](CodeAlpha_task02_REC.mp4)
   - [CodeAlphaTask03](Codealpha_task03.py)
   - [CodeAlphaTask03_Theory](CodeReviewforSecurityAndVurnalbolity(1)(1).pdf)
 - [Technologies Used](#technologies-used)
